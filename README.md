@@ -2,7 +2,7 @@
 
 (in Ubuntu)
 $cd Dekstop
-$cd scrapy_course
+$cd pelajaran_scrapy
 $cd virtual_env
 $source virtual_env/bin/activate
 (virtual_env)$cd demo_project
